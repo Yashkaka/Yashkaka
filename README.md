@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+https://github.com/Yashkaka/github-readme-stats
+![Yashkaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashkaka&show_icons=true)
+
+
 <!--
 **Yashkaka/Yashkaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
